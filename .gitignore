@@ -10,3 +10,5 @@ __pycache__/
 *.txt
 *.md
 temp_*
+lib/
+temp_*
