@@ -1,7 +1,8 @@
 streamlit
 neo4j
 google-genai
+python-dotenv
 pymupdf
 python-docx
 pandas
-python-dotenv
+pyvis
